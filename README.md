@@ -1,6 +1,6 @@
 # ⚛️ Quantum Random Number Generator (QRNG)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/IBM_Quantum_Demo_RandomNumberGenerator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malinowski-marek/IBMQuantumCoinFlipDemo/blob/main/IBM_Quantum_Demo_RandomNumberGenerator.ipynb)
 
 Generate truly random numbers using real IBM quantum computers! This project leverages quantum superposition and measurement to create random numbers that are fundamentally unpredictable, unlike classical pseudo-random number generators.
 
